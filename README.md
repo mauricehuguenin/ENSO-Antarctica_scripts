@@ -12,6 +12,7 @@ I use the following main python3 ([Van Rossum and Drake, 2009](https://dl.acm.or
 
 # Analysis Scripts
 
-- 
-- 
-- 
+
+# List of Figures
+__Fig. 1__: Experimental design of the new spin-up.
+[creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
