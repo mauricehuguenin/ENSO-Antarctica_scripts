@@ -30,22 +30,22 @@ __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarc
 # List of Supporting Information Figures
 __Fig. S1__ & __Fig. S2__: Model evaluation with Southern Ocean State Estimate (SOSE, Verdy & Mazloff, 2017) and Marine Mammals Exploring the Oceans Pole to Pole project (MEOP, Treasure et al., 2017). [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
 
-__Fig. S3__ & __Fig. S4__: Spatial maps of sea level pressure (hPa) and surface wind (m s−1) anomalies during the
+__Fig. S3__ & __Fig. S4__: Spatial maps of sea level pressure and surface wind anomalies during the
 peak of the four strongest El Niño and La Niña events since 1958. [ASL_spatial_patterns_and_winds_during_ENSO.ipynb](ASL_spatial_patterns_and_winds_during_ENSO.ipynb)
 
-__Fig. S5__ & __Fig. S6__: Spatial maps of the atmospheric forcing fields used for the El Ni˜no simulation in the model. [all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb](all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb)
+__Fig. S5__ & __Fig. S6__: Spatial maps of the atmospheric forcing fields used for the El Niño simulation in the model. [all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb](all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb)
 
-__Fig. S7__: Composites of the Southern Annular Mode (SAM) index during strong El Niño and La Niña events. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
+__Fig. S7__: Composites of the Southern Annular Mode index during strong El Niño and La Niña events. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
 
 __Fig. S8__: Time series and spatial maps of sea surface temperature anomalies. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
 
-__Fig. S9__: Advective heat flux anomalies on the West Antarctic continental shelf (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations (10^19 J). [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S9__: Advective heat flux anomalies on the West Antarctic continental shelf (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
-__Fig. S10__: Time series of Bellingshausen Sea ice volume anomalies (km^3) above the continental shelf break at 1000 m depth during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S10__: Time series of Bellingshausen Sea ice volume anomalies above the continental shelf break at 1000 m depth during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
 __Fig. S11__: Time series of West Antarctic continental shelf temperature changes and heat budget terms during the El Niño followed by La Niña simulation. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
-__Fig. S12__: Time series of Ni˜no 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S12__: Time series of Niño 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
 References:
 - Verdy, A. and Mazloff, M. R. (2017), A data assimilating model for estimating Southern Ocean biogeochemistry, J. Geophys. Res. Oceans, 122, 6968– 6988, doi:10.1002/2016JC012650. 
