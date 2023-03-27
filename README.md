@@ -47,6 +47,11 @@ __Fig. S11__: Time series of West Antarctic continental shelf temperature change
 
 __Fig. S12__: Time series of Ni˜no 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
+References:
+- Verdy, A. and Mazloff, M. R. (2017), A data assimilating model for estimating Southern Ocean biogeochemistry, J. Geophys. Res. Oceans, 122, 6968– 6988, doi:10.1002/2016JC012650. 
+- Treasure, A.M., F. Roquet, I.J. Ansorge, M.N. Bester, L. Boehme, H. Bornemann, J.-B. Charrassin, D. Chevallier, D.P. Costa, M.A. Fedak, C. Guinet, M.O. Hammill, R.G. Harcourt, M.A. Hindell, K.M. Kovacs, M.-A. Lea, P. Lovell, A.D. Lowther, C. Lydersen, T. McIntyre, C.R. McMahon, M.M.C. Muelbert, K. Nicholls, B. Picard, G. Reverdin, A.W. Trites, G.D. Williams, and P.J.N. de Bruyn. (2017), Marine Mammals Exploring the Oceans Pole to Pole: A review of the MEOP consortium. Oceanography 30(2):132–138, doi:10.5670/oceanog.2017.234.
+
+
 # Model output data on the NCI supercomputer gadi
 ```
 | Description of simulation | From where I run the simulation | Input files                      | Output stored on              |
