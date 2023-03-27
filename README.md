@@ -29,7 +29,21 @@ __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarc
 # List of Supporting Information Figures
 - add figures here
 
-# ToDo:
+# Model output data on the NCI supercomputer gadi
+```
+| Description of simulation | From where I run the simulation | Input files                      | Output stored on              |
+| ------------------------- | ------------------------------- | -------------------------------- | ----------------------------- |
+| Control run               | * + 01deg_jra55_ryf_Control/    | /g/data/ua8/JRA55-do/RYF/v1-3/   | ** + 01deg_jra55_ryf_Control/ |
+| El Niño simulation        | * + 01deg_jra55_ryf_ENFull/     | /g/data/ua8/JRA55-do/RYF/v1-3/   | ** + 01deg_jra55_ryf_ENFull/  |
+|                           |                                 | *** + forcing_mean_anoms_ENFull/ |                               |
+| La Niña simulation        | * + 01deg_jra55_ryf_LNFull/     | /g/data/ua8/JRA55-do/RYF/v1-3/   | ** + 01deg_jra55_ryf_LNFull/  |
+|                           |                                 | *** + forcing_mean_anoms_LNFull/ |                               |
+```
+\* `/home/561/mv7494/`
+\** `/g/data/e14/mv7494/access-om2/archive/`
+\*** `/g/data/e14/mv7494/ENSOAnt_input/`
+
+# To Do:
 - clean up scripts
 - add scripts for SI figures
 - add location of simulations on gadi
