@@ -11,6 +11,7 @@ I use the following main python3 ([Van Rossum and Drake, 2009](https://dl.acm.or
 - [xarray](https://xarray.pydata.org/en/stable/) for loading in and working with .nc data files ([Hoyer and Hamman, 2017](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.148/))
 
 # Analysis Scripts
+- To create the perturbation experiment input files (i.e., the climatological atmospheric forcing with added ENSO-associated anomalies on top), we use the following script [creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
 
 
 # List of Figures
