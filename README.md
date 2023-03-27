@@ -28,7 +28,31 @@ __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarc
 [Fig4_ENSO-Ant_schematic_the_latest.pptx](Fig4_ENSO-Ant_schematic_the_latest.pptx)
 
 # List of Supporting Information Figures
-- add figures here
+__Fig. S1__: []()
+
+__Fig. S2__: []()
+
+__Fig. S3__: []()
+
+__Fig. S4__: []()
+
+__Fig. S5__ & __Fig. S6__: Spatial maps of the atmospheric forcing fields used for the El Ni˜no simulation in the model. [all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb](all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb)
+
+__Fig. S7__: []()
+
+__Fig. S8__: []()
+
+__Fig. S9__: []()
+
+__Fig. S10__: []()
+
+__Fig. S11__: []()
+
+__Fig. S12__: []()
+
+__Fig. S13__: []()
+
+__Fig. S14__: []()
 
 # Model output data on the NCI supercomputer gadi
 ```
