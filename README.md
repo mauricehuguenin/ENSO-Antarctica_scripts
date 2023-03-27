@@ -26,6 +26,8 @@ __Fig. 3__: Time series of West Antarctic subsurface shelf temperature and heat 
 __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarctic continental shelf during El Niño and La Niña events.
 [Fig4_ENSO-Ant_schematic_the_latest.pptx](Fig4_ENSO-Ant_schematic_the_latest.pptx)
 
+# List of Supporting Information Figures
+- add figures here
 
 # ToDo:
 - clean up scripts
