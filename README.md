@@ -69,6 +69,5 @@ References:
 # To Do:
 - clean up scripts
 - add data to recreate the figures when final
-- add scripts for SI figures
 - rename scripts so they are easier to understand
-- push to zenodo and create doi when final
+- when final, push to zenodo and create doi
