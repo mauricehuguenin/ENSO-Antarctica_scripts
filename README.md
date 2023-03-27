@@ -45,5 +45,6 @@ __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarc
 
 # To Do:
 - clean up scripts
+- add data to recreate the figures when final
 - add scripts for SI figures
 - push to zenodo and create doi when final
