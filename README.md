@@ -68,7 +68,7 @@ References:
 
 # To Do:
 - clean up scripts
-- check again the final order of SI figures and update the list
-- add data to recreate the figures when final
+- check again the final order of SI figures and update the list inclusive the link to scripts
+- add Data folder to recreate the figures when final
 - rename scripts so they are easier to understand
 - when final, push to zenodo and create doi
