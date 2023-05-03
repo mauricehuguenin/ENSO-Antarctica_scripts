@@ -66,9 +66,11 @@ References:
 \** `/g/data/e14/mv7494/access-om2/archive/`
 \*** `/g/data/e14/mv7494/ENSOAnt_input/`
 
+
 # To Do:
 - clean up scripts
 - check again the final order of SI figures and update the list inclusive the link to scripts
 - add Data folder to recreate the figures when final
 - rename scripts so they are easier to understand
 - when final, push to zenodo and create doi
+- update figure order, some of the SI Figs. were removed and new ones since the first uploads
