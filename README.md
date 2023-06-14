@@ -72,7 +72,7 @@ The full forcing for the El Niño and La Niña simulations is constructed by add
 
 # To Do:
 - clean up scripts
-- check again the final order of SI figures and update the list including the link to scripts
-- add Data folder with data to recreate the figures when final
+- check again (upon acceptance) the final order of SI figures and update the list including the link to scripts
+- (upon acceptance) update Data folder with data to recreate the figures when final
 - rename scripts so they are easier to understand
 - when final, push to zenodo and create doi
