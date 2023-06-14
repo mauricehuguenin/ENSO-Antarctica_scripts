@@ -63,6 +63,7 @@ The full forcing for the El Niño and La Niña simulations is constructed by add
 | "    "    "    "          |                                 | *** + forcing_mean_anoms_ENFull/ |                               |
 | La Niña simulation        | * + 01deg_jra55_ryf_LNFull/     | /g/data/ua8/JRA55-do/RYF/v1-3/   | ** + 01deg_jra55_ryf_LNFull/  |
 | "    "    "    "          |                                 | *** + forcing_mean_anoms_LNFull/ |                               |
+| Location of repeat year climatological forcing: /g/data/ua8/JRA55-do/RYF/v1-3/                                                 |
 ```
 \* `/home/561/mv7494/`
 \** `/g/data/e14/mv7494/access-om2/archive/`
