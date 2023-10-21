@@ -22,7 +22,7 @@ __Fig. 2__: Response of the West Antarctic continental shelf during the peak of 
 [ABS_density_surface_sector_map_fancy_new_run_ACCESS-OM2-01.ipynb](ABS_density_surface_sector_map_fancy_new_run_ACCESS-OM2-01.ipynb)
 
 __Fig. 3__: Time series of West Antarctic subsurface shelf temperature and heat budget terms during El Niño and La Niña simulations.
-[time_series_N34_and_simulated_N34_along_with_temps.ipynb](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+[time_series_N34_and_simulated_N34_along_with_temps_submitted.ipynb](time_series_N34_and_simulated_N34_along_with_temps_submitted.ipynb)
 
 __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarctic continental shelf during El Niño and La Niña events.
 [Fig4_ENSO-Ant_schematic_the_latest.pptx](Fig4_ENSO-Ant_schematic_the_latest.pptx)
