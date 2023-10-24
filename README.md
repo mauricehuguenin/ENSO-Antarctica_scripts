@@ -1,7 +1,7 @@
 # ENSO-Antarctica
 Analysis Scripts and Data used for the submission: 
 
-Huguenin, M. F., Holmes, R. M., Spence, P. and England, M. H. (2023). Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation. Submitted to *Geophysical Research Letters*.
+Huguenin, M. F., Holmes, R. M., Spence, P. and England, M. H. (2023). Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation. In review at *Geophysical Research Letters*.
 
 # Packages and Functions
 I use the following main python3 ([Van Rossum and Drake, 2009](https://dl.acm.org/doi/book/10.5555/1593511)) packages which are publicly available online:
