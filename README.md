@@ -38,20 +38,20 @@ __Fig. S5__: Composites of the Southern Annular Mode index during strong El Niñ
 __Fig. S6__: Spatial maps of mean sea surface temperature anomalies during the peak of four strong El
 Niño and four strong La Niña events since 1958. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
 
-__Fig. S7__: Model evaluation with Marine Mammals Exploring the Oceans Pole to Pole project (MEOP, Treasure et al., 2017). [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
+__Fig. S7__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strenth.ipynb](Calculating_undercurrent_strenth.ipynb)
 
-__Fig. S8__: Model evaluation with mooring data from the Pine Island (Webber et al., 2017). [evaluating_oles_pine_island_mooring_data.ipynb](evaluating_oles_pine_island_mooring_data.ipynb)
+__Fig. S8__: The second-order subsurface Eulerian heat budget anomalies on the West Antarctic continental (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
-__Fig. S9__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strenth.ipynb](Calculating_undercurrent_strenth.ipynb)
+__Fig. S9__: Time series of Niño 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
-__Fig. S10__: The second-order subsurface Eulerian heat budget anomalies on the West Antarctic continental (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
-
-__Fig. S11__: Time series of the accumulated anomalous heat content on the West Antarctic continental
+__Fig. S10__: Time series of the accumulated anomalous heat content on the West Antarctic continental
 shelf during the El Niño and La Niña simulation. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
-__Fig. S12__ & __Fig. S13__: Spatial maps of atmospheric anomalies during periods when the Interdecadal Pacific Oscillation (IPO) is in a positive (negative) phase. [IPO_index_and_regression_maps_JRA55_ERA5.ipynb](IPO_index_and_regression_maps_JRA55_ERA5.ipynb)
+__Fig. S11__ & __Fig. S12__: Spatial maps of atmospheric anomalies during periods when the Interdecadal Pacific Oscillation (IPO) is in a positive (negative) phase. [IPO_index_and_regression_maps_JRA55_ERA5.ipynb](IPO_index_and_regression_maps_JRA55_ERA5.ipynb)
 
-__Fig. S14__: Time series of Niño 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S13__: Model evaluation with Marine Mammals Exploring the Oceans Pole to Pole project (MEOP, Treasure et al., 2017). [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
+
+__Fig. S14__: Model evaluation with mooring data from the Pine Island (Webber et al., 2017). [evaluating_oles_pine_island_mooring_data.ipynb](evaluating_oles_pine_island_mooring_data.ipynb)
 
 # A Note on the Model Input for the Perturbation Experiments
 The full forcing for the El Niño and La Niña simulations is constructed by adding for each input field the ENSO spatial patterns multiplied by the composite time series to the climatological repeat year forcing. That means, for example for the surface air temperature field during El Niño, we multiply the *tas_10m* spatial map (x,y) in [ENSOAnt_data/FigS5_All_Spatial_Maps_anoms_EN.nc](ENSOAnt_data/FigS5_All_Spatial_Maps_anoms_EN.nc) with composite time series (t), the fifth column in [ENSOAnt_data/Fig1d_Time_Series_Composite_EN.nc](ENSOAnt_data/Fig1d_Time_Series_Composite_EN.nc), and add the resulting field (t, x, y) to the repeat year forcing (t, x, y).
