@@ -1,5 +1,5 @@
 # ENSO-Antarctica
-Analysis Scripts and Data used for the submission: 
+Analysis Scripts used for the publication: 
 
 Huguenin, M. F., Holmes, R. M., Spence, P. and England, M. H. (2023). Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation. In review at *Geophysical Research Letters*.
 
@@ -12,7 +12,6 @@ I use the following main python3 ([Van Rossum and Drake, 2009](https://dl.acm.or
 
 # Analysis Scripts
 - To create the perturbation experiment input files (i.e., the climatological atmospheric forcing with added ENSO-associated anomalies on top), we use the following script: [creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb). It calculates the mean spatial anomalies for each of the ACCESS-OM2 input files during the four strongest El Niño and La Niña events since 1958, scales them with the idealised time series associated with ENSO and adds them to the RYF forcing files.
-
 
 # List of Main Manuscript Figures
 __Fig. 1__: Experimental design of the new spin-up.
