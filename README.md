@@ -48,9 +48,9 @@ shelf during the El Niño and La Niña simulation. [Same script as for Fig. 3](t
 
 __Fig. S11__ & __Fig. S12__: Spatial maps of atmospheric anomalies during periods when the Interdecadal Pacific Oscillation (IPO) is in a positive (negative) phase. [IPO_index_and_regression_maps_JRA55_ERA5.ipynb](IPO_index_and_regression_maps_JRA55_ERA5.ipynb)
 
-__Fig. S13__: Model temperature evaluation with Marine Mammals Exploring the Oceans Pole to Pole project (MEOP, Treasure et al., 2017). [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
+__Fig. S13__: Model temperature evaluation with Marine Mammals Exploring the Oceans Pole to Pole project (MEOP, Treasure et al., 2017). [seal_data_comparison_from_adele.ipynb](seal_data_comparison_from_adele.ipynb) and [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
 
-__Fig. S14__: As in Fig. S13 but for salinities. [Model_evaluation_with_JRA55_and_SOSE.ipynb](Model_evaluation_with_JRA55_and_SOSE.ipynb)
+__Fig. S14__: As in Fig. S13 but for salinities. [seal_data_salinity_comparison_from_adele.ipynb](seal_data_salinity_comparison_from_adele.ipynb)
 
 __Fig. S15__: Model evaluation with mooring data from the Pine Island (Webber et al., 2017). [evaluating_oles_pine_island_mooring_data.ipynb](evaluating_oles_pine_island_mooring_data.ipynb)
 
