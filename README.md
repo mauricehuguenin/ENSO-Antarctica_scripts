@@ -37,7 +37,7 @@ __Fig. S5__: Composites of the Southern Annular Mode index during strong El Niñ
 __Fig. S6__: Spatial maps of mean sea surface temperature anomalies during the peak of four strong El
 Niño and four strong La Niña events since 1958. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
 
-__Fig. S7__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strenth.ipynb](Calculating_undercurrent_strenth.ipynb)
+__Fig. S7__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strenth.ipynb](Calculating_undercurrent_strength.ipynb)
 
 __Fig. S8__: The second-order subsurface Eulerian heat budget anomalies on the West Antarctic continental (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
 
