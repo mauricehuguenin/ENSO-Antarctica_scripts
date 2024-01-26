@@ -32,19 +32,19 @@ peak of the four strongest El Niño and La Niña events since 1958. [ASL_spatial
 
 __Fig. S3__ & __Fig. S4__: Spatial maps of the atmospheric forcing fields used for the El Niño simulation in the model. [all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb](all_forcing_fields_ENFull_LNFull_spatial_maps.ipynb)
 
-__Fig. S5__: Composites of the Southern Annular Mode index during strong El Niño and La Niña events. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
+__Fig. S5__: Composites of the Southern Annular Mode index during strong El Niño and La Niña events. [Same script as for Fig. 1](Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb)
 
 __Fig. S6__: Spatial maps of mean sea surface temperature anomalies during the peak of four strong El
-Niño and four strong La Niña events since 1958. [Same script as for Fig. 1](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
+Niño and four strong La Niña events since 1958. [Same script as for Fig. 1](Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb)
 
-__Fig. S7__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strenth.ipynb](Calculating_undercurrent_strength.ipynb)
+__Fig. S7__: Model temperatures and velocities in the Amundsen Sea. [Calculating_undercurrent_strength.ipynb](Calculating_undercurrent_strength.ipynb)
 
-__Fig. S8__: The second-order subsurface Eulerian heat budget anomalies on the West Antarctic continental (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S8__: The second-order subsurface Eulerian heat budget anomalies on the West Antarctic continental (100 m - 1000 m, 150°W to 60°W) during the El Niño and La Niña simulations. [Same script as for Fig. 3](Fig3_time_series_of_West_Antarctic_subsurface_heat_budget_and_Ekman_anomalies.ipynb)
 
-__Fig. S9__: Time series of Niño 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+__Fig. S9__: Time series of Niño 3.4 and sea ice volume anomalies. [Same script as for Fig. 3](Fig3_time_series_of_West_Antarctic_subsurface_heat_budget_and_Ekman_anomalies.ipynb)
 
 __Fig. S10__: Time series of the accumulated anomalous heat content on the West Antarctic continental
-shelf during the El Niño and La Niña simulation. [Same script as for Fig. 3](time_series_N34_and_simulated_N34_along_with_temps.ipynb)
+shelf during the El Niño and La Niña simulation. [Same script as for Fig. 3](Fig3_time_series_of_West_Antarctic_subsurface_heat_budget_and_Ekman_anomalies.ipynb)
 
 __Fig. S11__ & __Fig. S12__: Spatial maps of atmospheric anomalies during periods when the Interdecadal Pacific Oscillation (IPO) is in a positive (negative) phase. [IPO_index_and_regression_maps_JRA55_ERA5.ipynb](IPO_index_and_regression_maps_JRA55_ERA5.ipynb)
 
