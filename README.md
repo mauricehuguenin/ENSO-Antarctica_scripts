@@ -11,20 +11,20 @@ I use the following main python3 ([Van Rossum and Drake, 2009](https://dl.acm.or
 - [xarray](https://xarray.pydata.org/en/stable/) for loading in and working with .nc data files ([Hoyer and Hamman, 2017](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.148/))
 
 # Analysis Scripts
-- To create the perturbation experiment input files (i.e., the climatological atmospheric forcing with added ENSO-associated anomalies on top), we use the following script: [creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb). It calculates the mean spatial anomalies for each of the ACCESS-OM2 input files during the four strongest El Niño and La Niña events since 1958, scales them with the idealised time series associated with ENSO and adds them to the RYF forcing files.
+- To create the perturbation experiment input files (i.e., the climatological atmospheric forcing with added ENSO-associated anomalies on top), we use the following script: [Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb](Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb). It calculates the mean spatial anomalies for each of the ACCESS-OM2 input files during the four strongest El Niño and La Niña events since 1958, scales them with the idealised time series associated with ENSO and adds them to the RYF forcing files.
 
 # List of Main Manuscript Figures
 __Fig. 1__: Experimental design of the new spin-up.
-[creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb](creating_enso_sam_forcing_fields_for_ncfile_ACCESS-OM2-01_rescaled.ipynb)
+[Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb](Fig1_time_series_spatial_patterns_highlighting_ENSO_teleconnection.ipynb)
 
 __Fig. 2__: Response of the West Antarctic continental shelf during the peak of El Niño and La Niña events at months 12 and 24 of the simulations.
-[ABS_density_surface_sector_map_fancy_new_run_ACCESS-OM2-01.ipynb](ABS_density_surface_sector_map_fancy_new_run_ACCESS-OM2-01.ipynb)
+[Fig2_response_of_West_Antarctic_shelf_to_peak_EN_and_LN_event.ipynb](Fig2_response_of_West_Antarctic_shelf_to_peak_EN_and_LN_event.ipynb)
 
 __Fig. 3__: Time series of West Antarctic subsurface shelf temperature and heat budget terms during El Niño and La Niña simulations.
-[time_series_N34_and_simulated_N34_along_with_temps_submitted.ipynb](time_series_N34_and_simulated_N34_along_with_temps_submitted.ipynb)
+[Fig3_time_series_of_West_Antarctic_subsurface_heat_budget_and_Ekman_anomalies.ipynb](Fig3_time_series_of_West_Antarctic_subsurface_heat_budget_and_Ekman_anomalies.ipynb)
 
 __Fig. 4__: Summary schematic of anomalous physical processes on the West Antarctic continental shelf during El Niño and La Niña events.
-[Fig4_ENSO-Ant_schematic_the_latest.pptx](Fig4_ENSO-Ant_schematic_the_latest.pptx)
+[Fig4_schematic_of_physical_changes_in_West_Antarctica_during_ENSO.pptx](Fig4_schematic_of_physical_changes_in_West_Antarctica_during_ENSO.pptx)
 
 # List of Supporting Information Figures
 __Fig. S1__ & __Fig. S2__: Spatial maps of sea level pressure and surface wind anomalies during the
